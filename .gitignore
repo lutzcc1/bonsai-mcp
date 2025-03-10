@@ -1,0 +1,8 @@
+__pycache__
+venv/
+.env
+
+
+Do we have any Star Wars products? I care only about Sith items, not Jedi.
+A customer wants to buy Pokemon stuff, he is specifically looking for Mewtwo items. Give me a list of pokemon items, prioritize Mewtwo related items.
+I need a toy that is cuddly, something like a plush. Give me options.
