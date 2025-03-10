@@ -11,7 +11,7 @@ A Model Context Protocol (MCP) server that provides search capabilities through 
 - Python 3.10 or higher
 - MCP SDK 1.2.0 or higher
 - Bonsai cluster credentials
-- Pre-existing indexed data (See (product_indexer)[https://github.com/lutzcc1/products_indexer])
+- Pre-existing indexed data .See [product_indexer](https://github.com/lutzcc1/products_indexer])
 
 ## Installation
 
