@@ -1,6 +1,6 @@
 # Bonsai Search MCP Server
 
-A Model Context Protocol (MCP) server that provides search capabilities through Bonsai's Search cluster. This server enables Large Language Models (LLMs) like Claude to perform search queries on your indexed data.
+A Model Context Protocol ([MCP](https://modelcontextprotocol.io/introduction)) server that provides search capabilities through Bonsai's Search cluster. This server enables Large Language Models (LLMs) like Claude to perform search queries on your indexed data.
 
 ## Features
 
