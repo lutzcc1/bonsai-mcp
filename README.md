@@ -71,6 +71,12 @@ python server.py
    - Parameter: Search query string
    - Returns: Formatted JSON response from Bonsai elasticsearch cluster containing search results
 
+## Testing the server
+You can test the server functionality without running the full MCP server using the included test script:
+```bash
+python test_server.py "your search query here"
+```
+
 ## Troubleshooting
 
 ### Logs Location
