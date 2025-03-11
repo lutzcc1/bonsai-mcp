@@ -11,7 +11,7 @@ A Model Context Protocol ([MCP](https://modelcontextprotocol.io/introduction)) s
 - Python 3.10 or higher
 - MCP SDK 1.2.0 or higher
 - Bonsai cluster credentials
-- Pre-existing indexed data. See [products_indexer](https://github.com/lutzcc1/products_indexer)
+- Pre-existing indexed data. (Example [indexer](https://github.com/lutzcc1/products_indexer))
 
 ## Installation
 
